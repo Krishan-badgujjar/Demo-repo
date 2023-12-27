@@ -1,4 +1,4 @@
 # Demo-repo
 This is My first repo o gitHub
 <br>
-Author-krishan
+Author-krishan(Krishan badgujjar)
